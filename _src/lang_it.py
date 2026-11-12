@@ -64,7 +64,7 @@ S = dict(
 T = dict(
  desc="Condizioni d’uso dell’app Padl e di questo sito.",
  h1="Condizioni d’uso", sub="Versione 1, 12 novembre 2026",
- intro="Queste condizioni si applicano all’app Padl (nome su App Store: Paddle from Scratch) e a questo sito. Usando l’app le accetti.",
+ intro="Queste condizioni si applicano all’app Padl (nome su App Store: Padel from Scratch) e a questo sito. Usando l’app le accetti.",
  lic=("Licenza","L’app ti è concessa in licenza secondo il contratto di licenza standard di Apple per l’utente finale. Queste condizioni lo integrano."),
  eula="Contratto standard di Apple (EULA)",
  pro=("Padl Pro","Padl Pro è un acquisto una tantum facoltativo, non un abbonamento. Pagamento e rimborsi sono gestiti da Apple secondo le condizioni dell’App Store. Puoi ripristinare l’acquisto su qualsiasi dispositivo con lo stesso account Apple."),

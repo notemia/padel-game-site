@@ -64,7 +64,7 @@ S = dict(
 T = dict(
  desc="Padl 앱과 이 웹사이트의 이용 약관.",
  h1="이용 약관", sub="버전 1, 2026년 11월 12일",
- intro="이 약관은 Padl 앱(App Store 이름: Paddle from Scratch)과 이 웹사이트에 적용됩니다. 앱을 사용하면 약관에 동의하는 것입니다.",
+ intro="이 약관은 Padl 앱(App Store 이름: Padel from Scratch)과 이 웹사이트에 적용됩니다. 앱을 사용하면 약관에 동의하는 것입니다.",
  lic=("라이선스","이 앱은 Apple의 표준 ‘사용 허가된 응용 프로그램 최종 사용자 사용권 계약’에 따라 사용이 허가됩니다. 이 약관은 그 계약을 보충합니다."),
  eula="Apple 표준 사용권 계약(EULA)",
  pro=("Padl Pro","Padl Pro는 선택 사항인 일회성 구입이며 구독이 아닙니다. 결제와 환불은 App Store 약관에 따라 Apple이 처리합니다. 같은 Apple 계정을 쓰는 모든 기기에서 구입 항목을 복원할 수 있습니다."),

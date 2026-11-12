@@ -64,7 +64,7 @@ S = dict(
 T = dict(
  desc="Användarvillkor för appen Padl och den här webbplatsen.",
  h1="Användarvillkor", sub="Version 1, 12 november 2026",
- intro="Villkoren gäller appen Padl (namn i App Store: Paddle from Scratch) och den här webbplatsen. Genom att använda appen godkänner du dem.",
+ intro="Villkoren gäller appen Padl (namn i App Store: Padel from Scratch) och den här webbplatsen. Genom att använda appen godkänner du dem.",
  lic=("Licens","Appen licensieras till dig enligt Apples standardlicensavtal för slutanvändare. De här villkoren kompletterar det."),
  eula="Apples standardavtal (EULA)",
  pro=("Padl Pro","Padl Pro är ett frivilligt engångsköp, inte en prenumeration. Betalning och återbetalningar hanteras av Apple enligt App Stores villkor. Du kan återställa köpet på alla enheter med samma Apple-konto."),

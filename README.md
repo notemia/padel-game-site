@@ -1,7 +1,7 @@
 # padel-game.fun
 
 Landing page, privacy policy, support and terms of use for the Padl iPhone app
-(App Store name: Paddle from Scratch), in 14 languages. Served by GitHub Pages.
+(App Store name: Padel from Scratch), in 14 languages. Served by GitHub Pages.
 
 Edit the copy in `_src/lang_*.py`, then rebuild:
 

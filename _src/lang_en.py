@@ -2,7 +2,7 @@ D = dict(
  title="Padel from Scratch: Rules, 13 Shots and a 3D Match | iPhone App",
  desc="Never played padel? Learn the rules, scoring and 13 shots in 3D, then play a doubles match on your iPhone. Works offline.",
  lang_label="Language",
- h1a="Padel from scratch", h1b="Know what to do before your first match",
+ h1a="Padel from Scratch", h1b="Know what to do before your first match",
  short="Play a 3D doubles match on a glass court, watch 13 shots in slow motion and learn the rules and scoring in 15 minutes.",
  cta="Tell me when it’s out", cta_store="Download on the App Store", notify_subject="Padel: tell me when it is out",
  hero_aria="Gameplay: a 3D doubles padel match on a blue glass court, then a classic rally shown step by step.",
@@ -64,7 +64,7 @@ S = dict(
 T = dict(
  desc="Terms of use of the Padl app and this website.",
  h1="Terms of Use", sub="Version 1, November 12, 2026",
- intro="These terms apply to the Padl app (App Store name: Paddle from Scratch) and to this website. By using the app you accept them.",
+ intro="These terms apply to the Padl app (App Store name: Padel from Scratch) and to this website. By using the app you accept them.",
  lic=("Licence","The app is licensed to you under Apple’s standard Licensed Application End User License Agreement. These terms add to it."),
  eula="Apple’s standard EULA",
  pro=("Padl Pro","Padl Pro is an optional one-time purchase, not a subscription. Payment and refunds are handled by Apple under the App Store terms. You can restore the purchase on any device with the same Apple Account."),
